@@ -1,0 +1,67 @@
+.sidebar-area {
+    width: 250px;
+    background-color: #f8f9fa;
+    border-right: 1px solid;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sidebar-lang-button {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    gap: 8px;
+    height: 50px;
+    width: 70px;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    background-color: #e9ecef;
+    border: 1px solid;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.sidebar-lang-select {
+    position: absolute;
+    bottom: 10px;
+    left: 100px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e9ecef;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 15px;
+}
+
+.passiveTab {
+    display: flex;
+    gap: 8px;
+    height: 50px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    border: 0px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.activeTab {
+    display: flex;
+    gap: 8px;
+    height: 50px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    background-color: #e7f5ff;
+    border: 1px solid;
+    border-color: #a5d8ff;
+    border-radius: 15px;
+    font-size: 20px;
+}

@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+.new-card {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.new-card-title {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: none;
+    outline: none;
+}
+
+.new-card-description {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    background-color: white;
+    text-align: center;
+    border: none;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    outline: none;
+}
+
+.new-card-deadline {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    outline: none;
+    background-color: white;
+}
+
+.new-card-deadline-input {
+    height: 25px;
+    width: 150px;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    outline: none;
+    border: 0px solid;
+}
+
+.new-card-create-button {
+    width: 45%;
+    height: 30px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: #e9ecef;
+    border: 1px solid;
+    border-top: none;
+    border-right: none;
+    border-bottom-left-radius: 8px;
+    
+}
+
+.new-card-cancel-button {
+    width: 45%;
+    height: 30px;
+    font-size: 20px;
+    margin-right: auto;
+    background-color: #e9ecef;
+    border: 1px solid;
+    border-top: none;
+    border-bottom-right-radius: 8px;
+}
+
+.empty-value {
+    color: gray;
+    font-size: 20px;
+}

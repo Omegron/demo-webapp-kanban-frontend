@@ -1,0 +1,62 @@
+{
+    "auth-log-in": "Log in",
+    "auth-sign-up": "Sign up",
+    "auth-email-placeholder": "Email",
+    "auth-password-placeholder": "Password",
+    "auth-confirm-password": "Confirm password",
+    
+    "sidebar-boards": "View boards",
+    "sidebar-change-username": "Change username",
+    "sidebar-change-password": "Change password",
+    "sidebar-change-email": "Change email",
+    "sidebar-delete-user": "Delete account",
+    "sidebar-exit": "Logout",
+
+    "boards-name-placeholder": "Board name",
+    "boards-create-button": "Create",
+    "boards-cancel-button": "Cancel",
+
+    "username-change-header": "Current username",
+    "username-change-placeholder": "New username",
+    "username-change-button": "Change username",
+    "username-change-success": "Username has been changed",
+
+    "password-change-header": "Change password",
+    "password-change-placeholder-password": "New password",
+    "password-change-placeholder-confirm-password": "Confirm password",
+    "password-change-button": "Change password",
+    "password-change-success": "Password has been changed",
+    "password-change-show": "Show",
+
+    "email-change-header": "Current email",
+    "email-change-placeholder": "New email address",
+    "email-change-button": "Change email address",
+    "email-change-success": "Email address has been changed",
+
+    "user-delete-ask": "Do you want to delete your account?",
+    "user-delete-ask-confirm": "Are you sure?",
+    "user-delete-confirm": "Yes",
+    "user-delete-cancel": "No",
+
+    "unassigned-cards": "Cards",
+    "card-new-button": "New card",
+    "card-title-placeholder": "Card title",
+    "card-description-placeholder": "Description",
+    "card-deadline": "Deadline",
+    "card-create-button": "Create",
+    "card-cancel-button": "Cancel",
+    "card-close-button": "Close",
+
+    "column-new-button": "New column",
+    "column-name-placeholder": "Column name",
+    "column-create-button": "Create",
+    "column-cancel-button": "Cancel",
+
+    "work-menu-home": "Home",
+    "work-menu-loguot": "Logout",
+
+    "error-username": "Username already taken",
+    "error-passwords": "Passwords not confirmed",
+    "error-email": "Email already taken",
+    "error-inputs": "Invalid email or password"
+}

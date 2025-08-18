@@ -1,0 +1,62 @@
+{
+    "auth-log-in": "Вход в аккаунт",
+    "auth-sign-up": "Регистрация",
+    "auth-email-placeholder": "Адрес электронной почты",
+    "auth-password-placeholder": "Пароль",
+    "auth-confirm-password": "Подтвердите пароль",
+    
+    "sidebar-boards": "Посмотреть доски",
+    "sidebar-change-username": "Сменить имя пользователя",
+    "sidebar-change-password": "Сменить пароль",
+    "sidebar-change-email": "Сменить адрес электронной почты",
+    "sidebar-delete-user": "Удалить аккаунт",
+    "sidebar-exit": "Выйти",
+
+    "boards-name-placeholder": "Название доски",
+    "boards-create-button": "Создать",
+    "boards-cancel-button": "Отмена",
+
+    "username-change-header": "Текущее имя пользователя",
+    "username-change-placeholder": "Новое имя пользователя",
+    "username-change-button": "Сменить имя пользователя",
+    "username-change-success": "Имя пользователя сменилось",
+
+    "password-change-header": "Смена пароля",
+    "password-change-placeholder-password": "Новый пароль",
+    "password-change-placeholder-confirm-password": "Подтвердите пароль",
+    "password-change-button": "Сменить пароль",
+    "password-change-success": "Пароль сменился",
+    "password-change-show": "Показать",
+
+    "email-change-header": "Текущий адрес электронной почты",
+    "email-change-placeholder": "Новый адрес электронной почты",
+    "email-change-button": "Сменить адрес электронной почты",
+    "email-change-success": "Адрес электронной почты сменился",
+
+    "user-delete-ask": "Вы хотите удалить ваш аккаунт?",
+    "user-delete-ask-confirm": "Вы уверены?",
+    "user-delete-confirm": "Да",
+    "user-delete-cancel": "Нет",
+
+    "unassigned-cards": "Карточки",
+    "card-new-button": "Новая карточка",
+    "card-title-placeholder": "Название карточки",
+    "card-description-placeholder": "Описание",
+    "card-deadline": "Дэдлайн",
+    "card-create-button": "Создать",
+    "card-cancel-button": "Отмена",
+    "card-close-button": "Закрыть",
+
+    "column-new-button": "Новая колонка",
+    "column-name-placeholder": "Название колонки",
+    "column-create-button": "Создать",
+    "column-cancel-button": "Отмена",
+
+    "work-menu-home": "Главная",
+    "work-menu-loguot": "Выход",
+
+    "error-username": "Имя пользователя уже занято",
+    "error-passwords": "Пароли не совпадают",
+    "error-email": "Адресс электронной почты уже занят",
+    "error-inputs": "Неверный адресс электронной почты или пароль"
+}

@@ -1,0 +1,62 @@
+{
+    "auth-log-in": "Вхід до акаунту",
+    "auth-sign-up": "Реєстрація",
+    "auth-email-placeholder": "Адреса електронної пошти",
+    "auth-password-placeholder": "Пароль",
+    "auth-confirm-password": "Підтвердіть пароль",
+    
+    "sidebar-boards": "Подивитися дошки",
+    "sidebar-change-username": "Змінити ім'я користувача",
+    "sidebar-change-password": "Змінити пароль",
+    "sidebar-change-email": "Змінити адресу електронної пошти",
+    "sidebar-delete-user": "Видалити акаунт",
+    "sidebar-exit": "Вийти",
+
+    "boards-name-placeholder": "Назва дошки",
+    "boards-create-button": "Створити",
+    "boards-cancel-button": "Скасувати",
+
+    "username-change-header": "Поточне ім'я користувача",
+    "username-change-placeholder": "Нове ім'я користувача",
+    "username-change-button": "Змінити ім'я користувача",
+    "username-change-success": "Ім'я користувача було змінено",
+
+    "password-change-header": "Зміна пароля",
+    "password-change-placeholder-password": "Новий пароль",
+    "password-change-placeholder-confirm-password": "Підтвердіть пароль",
+    "password-change-button": "Змінити пароль",
+    "password-change-success": "Пароль було змінено",
+    "password-change-show": "Показати",
+
+    "email-change-header": "Поточна електронна адреса",
+    "email-change-placeholder": "Нова адреса електронної пошти",
+    "email-change-button": "Змінити адресу електронної пошти",
+    "email-change-success": "Адресу електронної пошти було змінено",
+
+    "user-delete-ask": "Чи ви хочете видалити ваш акаунт?",
+    "user-delete-ask-confirm": "Ви впевнені?",
+    "user-delete-confirm": "Так",
+    "user-delete-cancel": "Ні",
+
+    "unassigned-cards": "Картки",
+    "card-new-button": "Нова картка",
+    "card-title-placeholder": "Назва картки",
+    "card-description-placeholder": "Опис",
+    "card-deadline": "Дедлайн",
+    "card-create-button": "Створити",
+    "card-cancel-button": "Скасувати",
+    "card-close-button": "Закрити",
+
+    "column-new-button": "Нова колонка",
+    "column-name-placeholder": "Назва колонки",
+    "column-create-button": "Створити",
+    "column-cancel-button": "Скасувати",
+
+    "work-menu-home": "Головна",
+    "work-menu-loguot": "Вихід",
+
+    "error-username": "Ім'я користувача вже зайнято",
+    "error-passwords": "Паролі не збігаються",
+    "error-email": "Адрес електронної пошти вже зайнята",
+    "error-inputs": "Невірна адрес електронної пошти або пароль"
+}

@@ -1,0 +1,120 @@
+.board {
+    width: 300px;
+    height: 200px;
+    background-color: #e7f5ff;
+    border: 1px solid;
+    border-color: #a5d8ff;
+    border-radius: 30px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0.5rem;
+    position: relative;
+}
+
+.inactive-board-create-button {
+    width: 300px;
+    height: 200px;
+    background-color: #e7f5ff;
+    border: 1px solid;
+    border-color: #a5d8ff;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 180px;
+    font-weight: 100;
+    line-height: 1;
+    padding: 0.5rem;
+    position: relative;
+}
+
+.active-board-create-button {
+    width: 300px;
+    height: 200px;
+    background-color: #e7f5ff;
+    border: 1px solid;
+    border-color: #a5d8ff;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 180px;
+    font-weight: 100;
+    line-height: 1;
+    padding: 0.5rem;
+    position: relative;
+}
+
+.board-delete-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: solid;
+    background-color: red;
+    border-color: red;
+    cursor: pointer;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.board-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px
+}
+
+.board-panel-board-name {
+    position: relative;
+    height: 25px;
+    line-height: 25px;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #e7f5ff;
+    outline: none;
+    border: none;
+    margin-block: 0px;
+}
+
+.new-board-name {
+    height: 30px;
+    font-size: 20px;
+    padding-left: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid;
+    border-top: none;
+    outline: none;
+}
+
+.board-new-name {
+    height: 25px;
+    line-height: 25px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #e7f5ff;
+    outline: none;
+    border: none;
+    padding-block: 0px;
+}
+
+.board-buttons-placeholder {
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+
+.board-button {
+    background-color: #e9ecef;
+    border-color: black;
+    border-radius: 30px;
+    width: 45%;
+    height: 60px;
+    border: 1px solid;
+    font-size: 20px;
+    position: relative;
+}
