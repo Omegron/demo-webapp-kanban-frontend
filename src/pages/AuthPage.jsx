@@ -22,7 +22,7 @@ export default function AuthPage() {
   const handleLoginOrRegister = async (e) => {
     e.preventDefault();
 
-    const url = `api/user/${isLogin ? 'login' : 'register'}`;
+    const url = `/api/user/${isLogin ? 'login' : 'register'}`;
     const payload = isLogin ? { email, password } : { email, password, confirmPassword };
 
     try {
