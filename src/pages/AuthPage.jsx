@@ -26,6 +26,7 @@ export default function AuthPage() {
     const payload = isLogin ? { email, password } : { email, password, confirmPassword };
 
     try {
+      console.log('POST to:', url, 'with payload:', payload);
       const response = await api.post(url, payload);
 
       const { token, userId } = response.data;
@@ -33,6 +34,7 @@ export default function AuthPage() {
 
       navigate(`/user/${userId}`);
     } catch (err) {
+      console.error('Error response:', err.response);
       const errorMessages = {
         EMAIL_TAKEN: t('error-email'),
         PASSWORD_NOT_CONFIRMED: t('error-passwords'),
